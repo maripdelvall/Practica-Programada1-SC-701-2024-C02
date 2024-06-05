@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[Entrenadores]
+(
+	[Id] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY, 
+    [Nombre] VARCHAR(200) NOT NULL
+)

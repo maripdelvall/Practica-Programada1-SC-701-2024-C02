@@ -1,0 +1,6 @@
+﻿CREATE TABLE [dbo].[Equipos]
+(
+	[IdEquipo] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY, 
+    [IdEntrenador] UNIQUEIDENTIFIER NOT NULL, 
+    [Nombre] VARBINARY(MAX) NOT NULL
+)

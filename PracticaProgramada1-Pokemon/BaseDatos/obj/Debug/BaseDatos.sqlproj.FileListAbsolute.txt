@@ -1,0 +1,10 @@
+C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\BaseDatos\bin\Debug\BaseDatos.dacpac
+C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\BaseDatos\bin\Debug\BaseDatos.dll
+C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\BaseDatos\bin\Debug\BaseDatos.pdb
+C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\BaseDatos\obj\Debug\BaseDatos.sqlproj.AssemblyReference.cache
+C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\BaseDatos\obj\Debug\BaseDatos.dll
+C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\BaseDatos\obj\Debug\BaseDatos.pdb
+C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\BaseDatos\obj\Debug\Model.xml
+C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\BaseDatos\obj\Debug\refactor.xml
+C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\BaseDatos\obj\Debug\postdeploy.sql
+C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\BaseDatos\obj\Debug\predeploy.sql

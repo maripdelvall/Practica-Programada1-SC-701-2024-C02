@@ -1,0 +1,5 @@
+﻿CREATE TABLE [dbo].[PokemonxEquipos]
+(
+	[IdPokemon] UNIQUEIDENTIFIER NOT NULL PRIMARY KEY, 
+    [IdEquipo] UNIQUEIDENTIFIER NOT NULL
+)
