@@ -1,0 +1,12 @@
+C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\BC\bin\Debug\net8.0\BC.deps.json
+C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\BC\bin\Debug\net8.0\BC.dll
+C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\BC\bin\Debug\net8.0\BC.pdb
+C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\BC\obj\Debug\net8.0\BC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\BC\obj\Debug\net8.0\BC.AssemblyInfoInputs.cache
+C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\BC\obj\Debug\net8.0\BC.AssemblyInfo.cs
+C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\BC\obj\Debug\net8.0\BC.csproj.CoreCompileInputs.cache
+C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\BC\obj\Debug\net8.0\BC.sourcelink.json
+C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\BC\obj\Debug\net8.0\BC.dll
+C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\BC\obj\Debug\net8.0\refint\BC.dll
+C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\BC\obj\Debug\net8.0\BC.pdb
+C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\BC\obj\Debug\net8.0\ref\BC.dll
