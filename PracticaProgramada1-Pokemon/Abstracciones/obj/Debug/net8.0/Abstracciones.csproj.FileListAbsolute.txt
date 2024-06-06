@@ -10,3 +10,4 @@ C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\Pr
 C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\Abstracciones\obj\Debug\net8.0\refint\Abstracciones.dll
 C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\Abstracciones\obj\Debug\net8.0\Abstracciones.pdb
 C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\Abstracciones\obj\Debug\net8.0\ref\Abstracciones.dll
+C:\Users\mpaul\source\repos\maripdelvall\Practica-Programada1-SC-701-2024-C02\PracticaProgramada1-Pokemon\Abstracciones\obj\Debug\net8.0\Abstracciones.csproj.AssemblyReference.cache
